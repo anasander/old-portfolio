@@ -5,7 +5,7 @@
 </p>
 
 <h2>Project Description</h2>
-<p>My old portfolio that I hosted at GitHub pages.</p>
+<p>My old portfolio that I hosted at GitHub pages. Uses only HTML & CSS.</p>
 
 ![old portfolio](https://user-images.githubusercontent.com/108422924/231236810-ff5e0bd2-2d58-4d83-8cb6-cb05cd2fa314.png)
 
